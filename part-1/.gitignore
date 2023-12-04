@@ -1,0 +1,5 @@
+## Ignore .vscode setting file
+.vscode
+
+## Ignore test&reference images
+images/
